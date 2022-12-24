@@ -48,15 +48,16 @@
 
 .fade {
     animation-name: fade;
-    animation-duration: 1.5s;
+    animation-duration: 3s;
 }
 
 @keyframes fade {
     from {
         opacity: initial;
     }
+
     to {
-        opacity: 0.4;
+        opacity: 0.7;
     }
 }
 
@@ -101,4 +102,20 @@
 .icon-next,
 .icon-prev {
     font-size: 35px;
+}
+
+.fit-content {
+    object-fit: cover;
+    height: 40vh;
+}
+
+
+.card-height {
+    height: 293px;
+    width: 218px;
+}
+
+.main-card-container {
+    width: 91vw;
+    overflow-x: scroll;
 }

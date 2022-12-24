@@ -17,7 +17,7 @@ export class DashboardComponent implements OnInit {
   indicators = true;
   controls = true;
   autoSlide = true;
-  slideInterval = 2000;
+  slideInterval = 3000;
 
   constructor(private httpService: HttpClient) { }
 
@@ -61,4 +61,12 @@ export class DashboardComponent implements OnInit {
       this.selectedIndex++;
     }
   }
+
+  selectScreen() {
+
+  }
+
+
 }
+
+

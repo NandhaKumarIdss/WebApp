@@ -14,3 +14,17 @@
     <i class="fa fa-arrow-circle-right icon-carousel icon-next"></i>
   </button>
 </div>
+
+<div class="card main-card-container mt-3">
+  <div class="card-body">
+    <div class="row">
+      <div class="col-md-12 col-12">
+        <div class="d-flex">
+          <div class="card card-height mx-3" *ngFor="let image of images; let i=index" (click)="selectScreen()">
+            <img [src]="image.imageSrc" [alt]="image.imageAlt" class="fit-content">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

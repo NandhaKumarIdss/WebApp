@@ -1,20 +1,36 @@
 {
     "images": [
         {
-            "imageSrc": "./assets/corousel/code-g578a41683_1920.jpg",
-            "imageAlt": "code1"
+            "imageSrc": "./assets/corousel/myke-simon-atsUqIm3wxo-unsplash.jpg",
+            "imageAlt": "pic1"
         },
         {
-            "imageSrc": "./assets/corousel/code-g5118cf410_1920.jpg",
-            "imageAlt": "code2"
+            "imageSrc": "./assets/corousel/samuel-regan-asante-wMkaMXTJjlQ-unsplash.jpg",
+            "imageAlt": "pic2"
         },
         {
-            "imageSrc": "./assets/corousel/never-stop-learning-ga65aa3c73_1920.jpg",
-            "imageAlt": "never-stop-learning"
+            "imageSrc": "./assets/corousel/serge-kutuzov-7ya3l_JdHpM-unsplash.jpg",
+            "imageAlt": "pic3"
         },
         {
-            "imageSrc": "./assets/corousel/programming-g3bcf15498_1920.jpg",
-            "imageAlt": "never-stop-learning"
+            "imageSrc": "./assets/corousel/tyson-moultrie-BQTHOGNHo08-unsplash.jpg",
+            "imageAlt": "pic4"
+        },
+        {
+            "imageSrc": "./assets/corousel/zorik-d-1hqKq6uJjUM-unsplash.jpg",
+            "imageAlt": "pic5"
+        },
+        {
+            "imageSrc": "./assets/corousel/felipe-bustillo-4VDRCoNuvE0-unsplash.jpg",
+            "imageAlt": "pic6"
+        },
+        {
+            "imageSrc": "./assets/corousel/jeff-pierre-5X5I20O_Vbg-unsplash.jpg",
+            "imageAlt": "pic7"
+        },
+        {
+            "imageSrc": "./assets/corousel/kilyan-sockalingum-nW1n9eNHOsc-unsplash.jpg",
+            "imageAlt": "pic8"
         }
     ]
 }
