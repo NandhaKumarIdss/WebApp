@@ -1,0 +1,20 @@
+{
+    "images": [
+        {
+            "imageSrc": "./assets/corousel/code-g578a41683_1920.jpg",
+            "imageAlt": "code1"
+        },
+        {
+            "imageSrc": "./assets/corousel/code-g5118cf410_1920.jpg",
+            "imageAlt": "code2"
+        },
+        {
+            "imageSrc": "./assets/corousel/never-stop-learning-ga65aa3c73_1920.jpg",
+            "imageAlt": "never-stop-learning"
+        },
+        {
+            "imageSrc": "./assets/corousel/programming-g3bcf15498_1920.jpg",
+            "imageAlt": "never-stop-learning"
+        }
+    ]
+}
